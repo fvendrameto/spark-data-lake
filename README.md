@@ -32,4 +32,3 @@ python etl.py
 ```
 
 The results as set to be written in overwrite mode, so each execution will clear all data previously generated.
-# spark-data-lake
